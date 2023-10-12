@@ -1,4 +1,4 @@
 # test2
 * test
-    + aabcd
-       -aa
+    + aabc
+          - apapaap
